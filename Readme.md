@@ -66,7 +66,7 @@ OR
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/ALBINPRAVEENFilter-Bot
+git clone https://github.com/ALBINPRAVEEN/Filter-Bot
 cd Filter-Bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
